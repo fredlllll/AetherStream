@@ -1,0 +1,1 @@
+﻿a streamlike class to send jsonlike structures over a binary stream
