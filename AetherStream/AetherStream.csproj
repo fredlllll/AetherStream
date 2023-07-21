@@ -6,6 +6,12 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <IncludeSymbols>False</IncludeSymbols>
+    <RepositoryUrl>https://github.com/fredlllll/AetherStream</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/fredlllll/AetherStream</PackageProjectUrl>
+    <Copyright>2023</Copyright>
+    <Authors>Frederik Gelder</Authors>
+    <Title>$(AssemblyName)</Title>
   </PropertyGroup>
 
   <ItemGroup>
